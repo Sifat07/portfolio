@@ -42,7 +42,7 @@ const tabs: TabsType = [
 const About = () => {
   const [selectedTab, setSelectedTab] = useState<number>(tabs[0].index);
   return (
-    <Layout title="About" description="About Sifat Jasim: software engineer with 5 years in SaaS and EdTech, now co-founder and QA engineer at a stealth commerce startup.">
+    <Layout title="About" description="About Sifat Jasim: software engineer with 5 years in SaaS and EdTech, now co-founder of Kichu.">
       <div className={styles.container}>
         <div className={styles.aboutContainer}>
           <div className={styles.avatarContainer}>
@@ -71,14 +71,14 @@ const About = () => {
               <span className={styles.codeTag}>{"<p>"}</span>
               <p>
                 I&apos;m a software engineer based in Dhaka. After five years at
-                <strong> ngaze</strong> building SaaS and EdTech products, I&apos;m now co-founder
-                and QA engineer at a stealth commerce startup, hardening a platform written by
-                fleets of AI coding agents.
+                <strong> ngaze</strong> building SaaS and EdTech products, I&apos;m now a co-founder
+                of <a href="https://kichu.dev/">Kichu</a>, where I make sure a platform written
+                largely by AI coding agents holds up.
               </p>
               <p>
                 I&apos;m a dedicated problem solver and quick learner with high attention 
-                to detail. When I&apos;m not writing code, you can find me supporting 
-                Real Madrid or exploring the latest in cinematography.
+                to detail. When I&apos;m not writing code, you&apos;ll find me supporting
+                Real Madrid, playing in our weekly football session, or with music on.
               </p>
               <p>
                 I work across the whole stack, from polished interfaces to backend systems,

@@ -49,9 +49,9 @@ export const skillsData = [
 
 export const experienceData = [
   {
-    company: "Stealth",
+    company: "Kichu",
     period: "08/2026 - Present",
-    role: "Co-founder & QA Engineer",
+    role: "Co-founder",
     description: "Test and harden a multi-tenant commerce platform built by fleets of AI coding agents. Fixed OAuth and credential-linking bugs blocking Meta/Instagram/WhatsApp messaging, a shipping-carrier webhook handshake for the Pathao integration, and a mobile SSE session bug. Wrote the payment-provider sandbox runbook and review checklist.",
   },
   {
