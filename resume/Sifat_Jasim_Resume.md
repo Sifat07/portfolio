@@ -1,18 +1,18 @@
 # SIFAT JASIM
 
-**Software Engineer · SaaS & EdTech · QA for AI-Built Systems**
+**Co-founder, Kichu · Software Engineer**
 
-Flat-5C, Building-18, Shopnonagar R/A 2, Pallabi, Mirpur-9, Dhaka-1216 · +8801670950940 · [sifatjasim@gmail.com](mailto:sifatjasim@gmail.com) · [linkedin.com/in/sifatjasim](https://www.linkedin.com/in/sifatjasim/) · [github.com/Sifat07](https://github.com/Sifat07)
+Dhaka, Bangladesh · [sifatjasim@kichu.dev](mailto:sifatjasim@kichu.dev) · [sifat07.github.io](https://sifat07.github.io/) · [linkedin.com/in/sifatjasim](https://www.linkedin.com/in/sifatjasim/) · [github.com/Sifat07](https://github.com/Sifat07)
 
 ## Summary
 
-Software engineer with 5 years of experience building SaaS and EdTech platforms. Skilled at delivering clean, responsive interfaces and scalable backend systems using modern JavaScript/TypeScript frameworks. Experienced in SaaS migrations, subscription and payment flows and live learning features. Passionate about developer experience, performance optimization and creating products that have meaningful impact on users. Currently co-founder and QA engineer of an AI-agent-orchestrated commerce platform, and solo lead of a full-stack community platform (membership, ticketing, analytics).
+Software engineer with 5 years of experience building SaaS and EdTech platforms. Skilled at delivering clean, responsive interfaces and scalable backend systems using modern JavaScript/TypeScript frameworks. Experienced in SaaS migrations, subscription and payment flows and live learning features. Passionate about developer experience, performance optimization and creating products that have meaningful impact on users. Co-founder of Kichu (kichu.dev), testing and hardening a platform whose code is written largely by AI agents. Secretary of Peña Madridista Bangladesh, the first official Real Madrid supporters' club in Bangladesh, and solo builder of its platform (membership, ticketing, analytics).
 
 ## Experience
 
-### Stealth — Co-founder & QA Engineer
+### Kichu — Co-founder
 *Remote · Aug 2026 – Present*
-*Co-founding a multi-tenant commerce platform whose code is written by fleets of AI coding agents.*
+*[kichu.dev](https://kichu.dev/) · Run your whole business from your phone: a platform for small, founder-led businesses, with code written largely by AI coding agents.*
 
 - Test and harden a multi-tenant commerce platform built by fleets of AI coding agents, finding and fixing the integration bugs that volume-at-speed development lets through.
 - Fixed **OAuth scope and credential-linking bugs** blocking Meta/Instagram/WhatsApp messaging integrations, **restoring merchant inbox replies**.
@@ -53,7 +53,7 @@ Software engineer with 5 years of experience building SaaS and EdTech platforms.
 ### Peña Madridista Bangladesh
 *[pmadridistabd.com](https://pmadridistabd.com/) · Next.js, Tailwind CSS, TypeScript, Fastify, Prisma, SQL, AWS S3*
 
-- Community platform for Real Madrid fans in Bangladesh, with a membership system for **1,500+ registered users** (~970 memberships, 800+ event registrations), article writing, ticket allocation and event management.
+- Platform for Bangladesh's official Real Madrid supporters' club, where I have been Secretary since its 2019 founding board, with a membership system for **1,500+ registered users** (~970 memberships, 800+ event registrations), article writing, ticket allocation and event management.
 - Own feature development end to end, including an in-house analytics and notifications system (**27k+ tracked events**), plus data-integrity, security and CI hardening (audit-trail fixes, order-oversell prevention, log-retention crons).
 
 ### Madridismo Corner
